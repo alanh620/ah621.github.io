@@ -1,0 +1,654 @@
+[
+    {
+      "postion": "A43",
+      "width": 4,
+      "length": 4,
+      "height": 4,
+      "price": 24,
+      "custom": 12,
+      "fragile": 10,
+      "standard": 11,
+      "basic":5
+
+    },
+    {
+      "postion": "A44",
+      "width": 4,
+      "length": 4,
+      "height": 58,
+      "price": 8,
+      "fragile": 12,
+      "standard": 10,
+      "mid": 11
+    },
+    {
+      "postion": "A45",
+      "width": 6,
+      "length": 6,
+      "height": 48,
+      "price": 8,
+      "fragile": 12,
+      "standard": 10,
+      "mid": 11
+    },
+    {
+      "postion": "A46",
+      "width": 6,
+      "length": 6,
+      "height": 6,
+      "price": 8,
+      "fragile": 12,
+      "standard": 10,
+      "mid": 11
+    },
+    {
+      "postion": "A47",
+      "width": 12,
+      "length": 10,
+      "height": 4,
+      "price": 30,
+      "fragile": 40,
+      "standard": 25,
+      "mid": 35
+    },
+    {
+      "postion": "A48",
+      "width": 8,
+      "length": 8,
+      "height": 8,
+      "price": 8,
+      "fragile": 12,
+      "standard": 10,
+      "mid": 11
+    },
+    {
+      "postion": "A49",
+      "width": 8,
+      "length": 4,
+      "height": 52,
+      "price": 8,
+      "fragile": 12,
+      "standard": 10,
+      "mid": 11
+    },
+    {
+      "postion": "A50",
+      "width": 9,
+      "length": 6,
+      "height": 3,
+      "price": 8,
+      "fragile": 12,
+      "standard": 10,
+      "mid": 11
+    },
+    {
+      "postion": "A51",
+      "width": 10,
+      "length": 10,
+      "height": 10,
+      "price": 35,
+      "fragile": 50,
+      "standard": 40,
+      "mid": 45
+    },
+    {
+      "postion": "A52",
+      "width": 10,
+      "length": 10,
+      "height": 48,
+      "price": 24,
+      "fragile": 32,
+      "standard": 25,
+      "mid": 28.77777778
+    },
+    {
+      "postion": "A53",
+      "width": 12,
+      "length": 10,
+      "height": 3,
+      "price": 23.07142857,
+      "fragile": 34.53333333,
+      "standard": 27,
+      "mid": 31.04444444
+    },
+    {
+      "postion": "A54",
+      "width": 12,
+      "length": 10,
+      "height": 8,
+      "price": 25.05952381,
+      "fragile": 37.06666667,
+      "standard": 29,
+      "mid": 33.31111111
+    },
+    {
+      "postion": "A55",
+      "width": 12,
+      "length": 6,
+      "height": 6,
+      "price": 27.04761905,
+      "fragile": 39.6,
+      "standard": 31,
+      "mid": 35.57777778
+    },
+    {
+      "postion": "A56", 
+      "width": 12,
+      "length": 12,
+      "height": 6,
+      "price": 29.03571429,
+      "fragile": 42.13333333,
+      "standard": 33,
+      "mid": 37.84444444
+    },
+    {
+      "postion": "A57",
+      "width": 12,
+      "length": 12,
+      "height": 12,
+      "price": 31.02380952,
+      "fragile": 44.66666667,
+      "standard": 35,
+      "mid": 40.11111111
+    },
+    {
+      "postion": "A58",
+      "width": 14,
+      "length": 8,
+      "height": 8,
+      "price": 33.01190476,
+      "fragile": 47.2,
+      "standard": 37,
+      "mid": 42.37777778
+    },
+    {
+      "postion": "A59",
+      "width": 14,
+      "length": 14,
+      "height": 14,
+      "price": 35,
+      "fragile": 49.73333333,
+      "standard": 39,
+      "mid": 44.64444444
+    },
+    {
+      "postion": "A60",
+      "width": 15,
+      "length": 12,
+      "height": 10,
+      "price": 36.98809524,
+      "fragile": 52.26666667,
+      "standard": 41,
+      "mid": 46.91111111
+    },
+    {
+      "postion": "A61",
+      "width": 15,
+      "length": 15,
+      "height": 48,
+      "price": 24,
+      "fragile": 54.8,
+      "standard": 43,
+      "mid": 49.17777778
+    },
+    {
+      "postion": "A62",
+      "width": 16,
+      "length": 16,
+      "height": 4,
+      "price": 38.97619048,
+      "fragile": 57.33333333,
+      "standard": 45,
+      "mid": 51.44444444
+    },
+    {
+      "postion": "A63",
+      "width": 16,
+      "length": 8,
+      "height": 8,
+      "price": 40.96428571,
+      "fragile": 59.86666667,
+      "standard": 47,
+      "mid": 53.71111111
+    },
+    {
+      "postion": "A64",
+      "width": 16,
+      "length": 12,
+      "height": 12,
+      "price": 42.95238095,
+      "fragile": 62.4,
+      "standard": 49,
+      "mid": 55.97777778
+    },
+    {
+      "postion": "A65",
+      "width": 16,
+      "length": 16,
+      "height": 16,
+      "price": 44.94,
+      "fragile": 64.93,
+      "standard": 51,
+      "mid": 58.24
+    },
+    {
+      "postion": "A66",
+      "width": 17,
+      "length": 11,
+      "height": 8,
+      "price": 46.92857143,
+      "fragile": 67.46666667,
+      "standard": 53,
+      "mid": 60.51111111
+    },
+    {
+      "postion": "A67",
+      "width": 18,
+      "length": 12,
+      "height": 12,
+      "price": 48.91666667,
+      "fragile": 70,
+      "standard": 55,
+      "mid": 62.77777778
+    },
+    {
+      "postion": "A68",
+      "width": 18,
+      "length": 16,
+      "height": 10,
+      "price": 50.9047619,
+      "fragile": 72.53333333,
+      "standard": 57,
+      "mid": 65.04444444
+    },
+    {
+      "postion": "A69",
+      "width": 18,
+      "length": 18,
+      "height": 18,
+      "price": 52.89285714,
+      "fragile": 75.06666667,
+      "standard": 59,
+      "mid": 67.31111111
+    },
+    {
+      "postion": "A70",
+      "width": 20,
+      "length": 12,
+      "height": 12,
+      "price": 24,
+      "fragile": 77.6,
+      "standard": 61,
+      "mid": 69.57777778
+    },
+    {
+      "postion": "A71",
+      "width": 20,
+      "length": 16,
+      "height": 14,
+      "price": 54.88095238,
+      "fragile": 80.13333333,
+      "standard": 63,
+      "mid": 71.84444444
+    },
+    {
+      "postion": "A72",
+      "width": 20,
+      "length": 16,
+      "height": 14,
+      "price": 56.86904762,
+      "fragile": 82.66666667,
+      "standard": 65,
+      "mid": 74.11111111
+    },
+    {
+      "postion": "A73",
+      "width": 20,
+      "length": 20,
+      "height": 12,
+      "price": 58.85714286,
+      "fragile": 85.2,
+      "standard": 67,
+      "mid": 76.37777778
+    },
+    {
+      "postion": "A74",
+      "width": 20,
+      "length": 20,
+      "height": 20,
+      "price": 60.8452381,
+      "fragile": 87.73333333,
+      "standard": 69,
+      "mid": 78.64444444
+    },
+    {
+      "postion": "A75",
+      "width": 22,
+      "length": 22,
+      "height": 8,
+      "price": 62.83333333,
+      "fragile": 90.26666667,
+      "standard": 71,
+      "mid": 80.91111111
+    },
+    {
+      "postion": "A76",
+      "width": 22,
+      "length": 22,
+      "height": 22,
+      "price": 64.82142857,
+      "fragile": 92.8,
+      "standard": 73,
+      "mid": 83.17777778
+    },
+    {
+      "postion": "A77",
+      "width": 24,
+      "length": 6,
+      "height": 6,
+      "price": 66.80952381,
+      "fragile": 95.33333333,
+      "standard": 75,
+      "mid": 85.44444444
+    },
+    {
+      "postion": "A78",
+      "width": 24,
+      "length": 6,
+      "height": 18,
+      "price": 68.79761905,
+      "fragile": 97.86666667,
+      "standard": 77,
+      "mid": 87.71111111
+    },
+    {
+      "postion": "A79",
+      "width": 24,
+      "length": 12,
+      "height": 12,
+      "price": 24,
+      "fragile": 100.4,
+      "standard": 79,
+      "mid": 89.97777778
+    },
+    {
+      "postion": "A80",
+      "width": 24,
+      "length": 18,
+      "height": 18,
+      "price": 70.78571429,
+      "fragile": 102.9333333,
+      "standard": 81,
+      "mid": 92.24444444
+    },
+    {
+      "postion": "A81",
+      "width": 24,
+      "length": 20,
+      "height": 12,
+      "price": 72.77380952,
+      "fragile": 105.4666667,
+      "standard": 83,
+      "mid": 94.51111111
+    },
+    {
+      "postion": "A82",
+      "width": 24,
+      "length": 24,
+      "height": 24,
+      "price": 74.76190476,
+      "fragile": 108,
+      "standard": 85,
+      "mid": 96.77777778
+    },
+    {
+      "postion": "A83",
+      "width": 24,
+      "length": 24,
+      "height": 16,
+      "price": 76.75,
+      "fragile": 110.5333333,
+      "standard": 87,
+      "mid": 99.04444444
+    },
+    {
+      "postion": "A84",
+      "width": 25,
+      "length": 6,
+      "height": 40,
+      "price": 78.73809524,
+      "fragile": 113.0666667,
+      "standard": 89,
+      "mid": 101.3111111
+    },
+    {
+      "postion": "A85",
+      "width": 26,
+      "length": 20,
+      "height": 20,
+      "price": 80.72619048,
+      "fragile": 115.6,
+      "standard": 91,
+      "mid": 103.5777778
+    },
+    {
+      "postion": "A86",
+      "width": 26,
+      "length": 26,
+      "height": 10,
+      "price": 82.71428571,
+      "fragile": 118.1333333,
+      "standard": 93,
+      "mid": 105.8444444
+    },
+    {
+      "postion": "A87",
+      "width": 28,
+      "length": 20,
+      "height": 12,
+      "price": 84.70238095,
+      "fragile": 120.6666667,
+      "standard": 95,
+      "mid": 108.1111111
+    },
+    {
+      "postion": "A88",
+      "width": 30,
+      "length": 6,
+      "height": 24,
+      "price": 24,
+      "fragile": 123.2,
+      "standard": 97,
+      "mid": 110.3777778
+    },
+    {
+      "postion": "A89",
+      "width": 30,
+      "length": 14,
+      "height": 10,
+      "price": 86.69047619,
+      "fragile": 125.7333333,
+      "standard": 99,
+      "mid": 112.6444444
+    },
+    {
+      "postion": "A90",
+      "width": 30,
+      "length": 17,
+      "height": 16,
+      "price": 88.67857143,
+      "fragile": 128.2666667,
+      "standard": 101,
+      "mid": 114.9111111
+    },
+    {
+      "postion": "A91",
+      "width": 30,
+      "length": 20,
+      "height": 20,
+      "price": 90.66666667,
+      "fragile": 130.8,
+      "standard": 103,
+      "mid": 117.1777778
+    },
+    {
+      "postion": "A92",
+      "width": 30,
+      "length": 24,
+      "height": 12,
+      "price": 92.6547619,
+      "fragile": 133.3333333,
+      "standard": 105,
+      "mid": 119.4444444
+    },
+    {
+      "postion": "A93",
+      "width": 30,
+      "length": 30,
+      "height": 16,
+      "price": 94.64285714,
+      "fragile": 135.8666667,
+      "standard": 107,
+      "mid": 121.7111111
+    },
+    {
+      "postion": "A94",
+      "width": 32,
+      "length": 6,
+      "height": 42,
+      "price": 96.63095238,
+      "fragile": 138.4,
+      "standard": 109,
+      "mid": 123.9777778
+    },
+    {
+      "postion": "A95",
+      "width": 35,
+      "length": 22,
+      "height": 22,
+      "price": 98.61904762,
+      "fragile": 140.9333333,
+      "standard": 111,
+      "mid": 126.2444444
+    },
+    {
+      "postion": "A96",
+      "width": 36,
+      "length": 8,
+      "height": 8,
+      "price": 100.6071429,
+      "fragile": 143.4666667,
+      "standard": 113,
+      "mid": 128.5111111
+    },
+    {
+      "postion": "A97",
+      "width": 36,
+      "length": 8,
+      "height": 30,
+      "price": 24,
+      "fragile": 146,
+      "standard": 115,
+      "mid": 130.7777778
+    },
+    {
+      "postion": "A98",
+      "width": 36,
+      "length": 6,
+      "height": 46,
+      "price": 102.5952381,
+      "fragile": 148.5333333,
+      "standard": 117,
+      "mid": 133.0444444
+    },
+    {
+      "postion": "A99",
+      "width": 36,
+      "length": 16,
+      "height": 16,
+      "price": 104.5833333,
+      "fragile": 151.0666667,
+      "standard": 119,
+      "mid": 135.3111111
+    },
+    {
+      "postion": "A100",
+      "width": 36,
+      "length": 24,
+      "height": 12,
+      "price": 106.5714286,
+      "fragile": 153.6,
+      "standard": 121,
+      "mid": 137.5777778
+    },
+    {
+      "postion": "A101",
+      "width": 50,
+      "length": 20,
+      "height": 10,
+      "price": 108.5595238,
+      "fragile": 156.1333333,
+      "standard": 123,
+      "mid": 139.8444444
+    },
+    {
+      "postion": "A102",
+      "width": 16,
+      "length": 12.5,
+      "height": 12.5,
+      "price": 110.547619,
+      "fragile": 158.6666667,
+      "standard": 125,
+      "mid": 142.1111111
+    },
+    {
+      "postion": "A103",
+      "width": 18,
+      "length": 18,
+      "height": 16,
+      "price": 112.5357143,
+      "fragile": 161.2,
+      "standard": 127,
+      "mid": 144.3777778
+    },
+    {
+      "postion": "A104",
+      "width": 18,
+      "length": 18,
+      "height": 24,
+      "price": 114.5238095,
+      "fragile": 163.7333333,
+      "standard": 129,
+      "mid": 146.6444444
+    },
+    {
+      "postion": "A105",
+      "width": 24,
+      "length": 18,
+      "height": 24,
+      "price": 116.5119048,
+      "fragile": 166.2666667,
+      "standard": 131,
+      "mid": 148.9111111
+    },
+    {
+      "postion": "A106",
+      "width": 24,
+      "length": 14,
+      "height": 10,
+      "price": 24,
+      "fragile": 168.8,
+      "standard": 133,
+      "mid": 151.1777778
+    },
+    {
+      "postion": "A107",
+      "width": 26,
+      "length": 16,
+      "height": 12,
+      "price": 118.5,
+      "fragile": 171.3333333,
+      "standard": 135,
+      "mid": 153.4444444
+    }
+   ]
