@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/ah620.github.io/static/css/main.a67ad1de.css",
-    "main.js": "/ah620.github.io/static/js/main.51ecb098.js",
-    "static/media/Resume.pdf": "/ah620.github.io/static/media/Resume.c5b3738d0126cd317e15.pdf",
-    "index.html": "/ah620.github.io/index.html",
-    "main.a67ad1de.css.map": "/ah620.github.io/static/css/main.a67ad1de.css.map",
-    "main.51ecb098.js.map": "/ah620.github.io/static/js/main.51ecb098.js.map"
+    "main.css": "/upsCalc.github.io/static/css/main.812d908a.css",
+    "main.js": "/upsCalc.github.io/static/js/main.f2cf14a5.js",
+    "index.html": "/upsCalc.github.io/index.html",
+    "main.812d908a.css.map": "/upsCalc.github.io/static/css/main.812d908a.css.map",
+    "main.f2cf14a5.js.map": "/upsCalc.github.io/static/js/main.f2cf14a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.a67ad1de.css",
-    "static/js/main.51ecb098.js"
+    "static/css/main.812d908a.css",
+    "static/js/main.f2cf14a5.js"
   ]
 }
