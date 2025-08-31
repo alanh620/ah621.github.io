@@ -6,7 +6,7 @@ const printPrices = [
     { name: 'Canvas', price: 10.25 },
     { name: 'Regular Bond', price: 1.75 },
     { name: 'Banner', price: 10.25 },
-    { name: 'Foambord', price:15.75},
+    { name: 'Foambord', price:1.50},
 ];
 
 const goframes = [
