@@ -8,6 +8,7 @@ const printPrices = [
     { name: 'Banner', price: 10.25 },
     { name: 'Foambord', price:7.50},
 ];
+console.log(printPrices);
 
 const goframes = [
     {name: 36, price:85/8},
