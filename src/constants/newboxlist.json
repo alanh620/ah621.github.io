@@ -1,0 +1,696 @@
+[
+    {
+        "postion": "A01",
+        "width": 8,
+        "length": 8,
+        "height": 8,
+        "price": 0,
+        "custom": 0,
+        "standard": 1.75,
+        "fragile": 1.75,
+        "basic": 1.75 
+        
+    },
+    {
+        "postion": "A01",
+        "width": 6,
+        "length": 6,
+        "height": 6,
+        "price": 0,
+        "custom": 0,
+        "standard": 4.50,
+        "fragile": 3.00,
+        "basic": 3.75 
+        
+    },
+    {
+        "postion": "A01",
+        "width": 10,
+        "length": 10,
+        "height": 10,
+        "price": 0,
+        "custom": 0,
+        "standard": 3.00,
+        "fragile": 3.00,
+        "basic": 3.00 
+        
+    },
+    {
+        "postion": "A01",
+        "width": 12,
+        "length": 12,
+        "height": 12,
+        "price": 0,
+        "custom": 0,
+        "standard": 4.00,
+        "fragile": 4.00,
+        "basic": 4.00 
+        
+    },
+    {
+        "postion": "A01",
+        "width": 14,
+        "length": 14,
+        "height": 14,
+        "price": 0,
+        "custom": 0,
+        "standard": 5.00,
+        "fragile": 5.00,
+        "basic": 5.00
+        
+    },
+    {
+        "postion": "A01",
+        "width": 16,
+        "length": 16,
+        "height": 16,
+        "price": 0,
+        "custom": 0,
+        "standard": 5.50,
+        "fragile": 5.50,
+        "basic": 5.50
+        
+    },
+    {
+        "postion": "A01",
+        "width": 18,
+        "length": 18,
+        "height": 18,
+        "price": 0,
+        "custom": 0,
+        "standard": 7.50,
+        "fragile": 7.50,
+        "basic": 7.50
+        
+    },
+    {
+        "postion": "A01",
+        "width": 20,
+        "length": 20,
+        "height": 20,
+        "price": 0,
+        "custom": 0,
+        "standard": 11.00,
+        "fragile": 11.00,
+        "basic": 11.00 
+        
+    },
+    {
+        "postion": "A01",
+        "width": 24,
+        "length": 24,
+        "height": 24,
+        "price": 0,
+        "custom": 0,
+        "standard": 11.00,
+        "fragile": 11.00,
+        "basic": 11.00 
+        
+    },
+    {
+        "postion": "A01",
+        "width": 12,
+        "length": 12,
+        "height": 6,
+        "price": 0,
+        "custom": 0,
+        "standard": 3.00,
+        "fragile": 3.00,
+        "basic": 3.00
+        
+    },
+    {
+        "postion": "A01",
+        "width": 12,
+        "length": 15,
+        "height": 10,
+        "price": 0,
+        "custom": 0,
+        "standard": 3.60,
+        "fragile": 3.60,
+        "basic": 3.60
+        
+    },
+    {
+        "postion": "A01",
+        "width": 15,
+        "length": 15,
+        "height": 48,
+        "price": 0,
+        "custom": 0,
+        "standard": 17.00,
+        "fragile": 17.00,
+        "basic": 17.00
+        
+    },
+    {
+        "postion": "A01",
+        "width": 6,
+        "length": 6,
+        "height": 48,
+        "price": 0,
+        "custom": 0,
+        "standard": 9.50,
+        "fragile": 9.50,
+        "basic": 9.50
+        
+    },
+    {
+        "postion": "A01",
+        "width": 16,
+        "length": 16,
+        "height": 4,
+        "price": 0,
+        "custom": 0,
+        "standard": 4.00,
+        "fragile": 4.00,
+        "basic": 4.00
+        
+    },
+    {
+        "postion": "A01",
+        "width": 11,
+        "length": 17,
+        "height": 8,
+        "price": 0,
+        "custom": 0,
+        "standard": 3.50,
+        "fragile": 3.50,
+        "basic": 3.50
+        
+    },
+    {
+        "postion": "A01",
+        "width": 16,
+        "length": 20,
+        "height":14,
+        "price": 0,
+        "custom": 0,
+        "standard": 4.45,
+        "fragile": 4.45,
+        "basic": 4.45
+        
+    },
+    {
+        "postion": "A01",
+        "width": 12,
+        "length": 20,
+        "height": 12,
+        "price": 0,
+        "custom": 0,
+        "standard": 5.50,
+        "fragile": 5.50,
+        "basic": 5.50
+        
+    },
+    {
+        "postion": "A01",
+        "width": 6,
+        "length": 30,
+        "height": 24,
+        "price": 0,
+        "custom": 0,
+        "standard": 10.50,
+        "fragile": 10.50,
+        "basic": 10.50 
+        
+    },
+    {
+        "postion": "A01",
+        "width": 20,
+        "length": 20,
+        "height": 12,
+        "price": 0,
+        "custom": 0,
+        "standard": 8.00,
+        "fragile": 8.00,
+        "basic": 8.00
+        
+    },
+    {
+        "postion": "A01",
+        "width": 6,
+        "length": 24,
+        "height": 18,
+        "price": 0,
+        "custom": 0,
+        "standard": 8.00,
+        "fragile": 8.00,
+        "basic": 8.00
+        
+    },
+    {
+        "postion": "A01",
+        "width": 18,
+        "length": 24,
+        "height": 18,
+        "price": 0,
+        "custom": 0,
+        "standard": 10.00,
+        "fragile": 10.00,
+        "basic": 10.00
+        
+    },
+    {
+        "postion": "A01",
+        "width": 24,
+        "length": 24,
+        "height": 16,
+        "price": 0,
+        "custom": 0,
+        "standard": 10.00,
+        "fragile": 10.00,
+        "basic": 10.00
+        
+    },
+    {
+        "postion": "Cut Down 10x10x10",
+        "width": 10,
+        "length": 10,
+        "height": 8,
+        "price": 0,
+        "custom": 0,
+        "standard": 3.00,
+        "fragile": 3.00,
+        "basic": 3.00 
+    },
+    {
+        "postion": "Cut Down 10x10x10",
+        "width": 10,
+        "length": 10,
+        "height": 6,
+        "price": 0,
+        "custom": 0,
+        "standard": 3.00,
+        "fragile": 3.00,
+        "basic": 3.00 
+    },
+    {
+        "postion": "Cut Down 12x12x12",
+        "width": 12,
+        "length": 12,
+        "height": 10,
+        "price": 0,
+        "custom": 0,
+        "standard": 4.00,
+        "fragile": 4.00,
+        "basic": 4.00 
+    },
+    {
+        "postion": "Cut Down 12x12x12",
+        "width": 12,
+        "length": 12,
+        "height": 8,
+        "price": 0,
+        "custom": 0,
+        "standard": 4.00,
+        "fragile": 4.00,
+        "basic": 4.00 
+    },
+    {
+        "postion": "Cut Down 14x14x14",
+        "width": 14,
+        "length": 14,
+        "height": 12,
+        "price": 0,
+        "custom": 0,
+        "standard": 5.00,
+        "fragile": 5.00,
+        "basic": 5.00
+    },
+    {
+        "postion": "Cut Down 14x14x14",
+        "width": 14,
+        "length": 14,
+        "height": 10,
+        "price": 0,
+        "custom": 0,
+        "standard": 5.00,
+        "fragile": 5.00,
+        "basic": 5.00
+    },
+    {
+        "postion": "Cut Down 14x14x14",
+        "width": 14,
+        "length": 14,
+        "height": 8,
+        "price": 0,
+        "custom": 0,
+        "standard": 5.00,
+        "fragile": 5.00,
+        "basic": 5.00
+    },
+    {
+        "postion": "Cut Down 16x16x16",
+        "width": 16,
+        "length": 16,
+        "height": 14,
+        "price": 0,
+        "custom": 0,
+        "standard": 5.50,
+        "fragile": 5.50,
+        "basic": 5.50
+    },
+    {
+        "postion": "Cut Down 16x16x16",
+        "width": 16,
+        "length": 16,
+        "height": 12,
+        "price": 0,
+        "custom": 0,
+        "standard": 5.50,
+        "fragile": 5.50,
+        "basic": 5.50
+    },
+    {
+        "postion": "Cut Down 16x16x16",
+        "width": 16,
+        "length": 16,
+        "height": 10,
+        "price": 0,
+        "custom": 0,
+        "standard": 5.50,
+        "fragile": 5.50,
+        "basic": 5.50
+    },
+    {
+        "postion": "Cut Down 16x16x16",
+        "width": 16,
+        "length": 16,
+        "height": 8,
+        "price": 0,
+        "custom": 0,
+        "standard": 5.50,
+        "fragile": 5.50,
+        "basic": 5.50
+    },
+    {
+        "postion": "Cut Down 18x18x18",
+        "width": 18,
+        "length": 18,
+        "height": 16,
+        "price": 0,
+        "custom": 0,
+        "standard": 7.50,
+        "fragile": 7.50,
+        "basic": 7.50
+    },
+    {
+        "postion": "Cut Down 18x18x18",
+        "width": 18,
+        "length": 18,
+        "height": 14,
+        "price": 0,
+        "custom": 0,
+        "standard": 7.50,
+        "fragile": 7.50,
+        "basic": 7.50
+    },
+    {
+        "postion": "Cut Down 18x18x18",
+        "width": 18,
+        "length": 18,
+        "height": 12,
+        "price": 0,
+        "custom": 0,
+        "standard": 7.50,
+        "fragile": 7.50,
+        "basic": 7.50
+    },
+    {
+        "postion": "Cut Down 18x18x18",
+        "width": 18,
+        "length": 18,
+        "height": 10,
+        "price": 0,
+        "custom": 0,
+        "standard": 7.50,
+        "fragile": 7.50,
+        "basic": 7.50
+    },
+    {
+        "postion": "Cut Down 20x20x20",
+        "width": 20,
+        "length": 20,
+        "height": 18,
+        "price": 0,
+        "custom": 0,
+        "standard": 11.00,
+        "fragile": 11.00,
+        "basic": 11.00 
+    },
+    {
+        "postion": "Cut Down 20x20x20",
+        "width": 20,
+        "length": 20,
+        "height": 16,
+        "price": 0,
+        "custom": 0,
+        "standard": 11.00,
+        "fragile": 11.00,
+        "basic": 11.00 
+    },
+    {
+        "postion": "Cut Down 20x20x20",
+        "width": 20,
+        "length": 20,
+        "height": 14,
+        "price": 0,
+        "custom": 0,
+        "standard": 11.00,
+        "fragile": 11.00,
+        "basic": 11.00 
+    },
+    {
+        "postion": "Cut Down 20x20x20",
+        "width": 20,
+        "length": 20,
+        "height": 12,
+        "price": 0,
+        "custom": 0,
+        "standard": 11.00,
+        "fragile": 11.00,
+        "basic": 11.00 
+    },
+    {
+        "postion": "Cut Down 24x24x24",
+        "width": 24,
+        "length": 24,
+        "height": 22,
+        "price": 0,
+        "custom": 0,
+        "standard": 11.00,
+        "fragile": 11.00,
+        "basic": 11.00
+    },
+    {
+        "postion": "Cut Down 24x24x24",
+        "width": 24,
+        "length": 24,
+        "height": 20,
+        "price": 0,
+        "custom": 0,
+        "standard": 11.00,
+        "fragile": 11.00,
+        "basic": 11.00
+    },
+    {
+        "postion": "Cut Down 24x24x24",
+        "width": 24,
+        "length": 24,
+        "height": 18,
+        "price": 0,
+        "custom": 0,
+        "standard": 11.00,
+        "fragile": 11.00,
+        "basic": 11.00
+    },
+    {
+        "postion": "Cut Down 20x12x12",
+        "width": 20,
+        "length": 12,
+        "height": 10,
+        "price": 0,
+        "custom": 0,
+        "standard": 5.50,
+        "fragile": 5.50,
+        "basic": 5.50
+    },
+    {
+        "postion": "Cut Down 20x12x12",
+        "width": 20,
+        "length": 12,
+        "height": 8,
+        "price": 0,
+        "custom": 0,
+        "standard": 5.50,
+        "fragile": 5.50,
+        "basic": 5.50
+    },
+    {
+        "postion": "Cut Down 20x12x12",
+        "width": 20,
+        "length": 12,
+        "height": 6,
+        "price": 0,
+        "custom": 0,
+        "standard": 5.50,
+        "fragile": 5.50,
+        "basic": 5.50
+    },
+    {
+        "postion": "Cut Down 15x12x10",
+        "width": 15,
+        "length": 12,
+        "height": 8,
+        "price": 0,
+        "custom": 0,
+        "standard": 3.60,
+        "fragile": 3.60,
+        "basic": 3.60
+    },
+    {
+        "postion": "Cut Down 15x12x10",
+        "width": 15,
+        "length": 12,
+        "height": 6,
+        "price": 0,
+        "custom": 0,
+        "standard": 3.60,
+        "fragile": 3.60,
+        "basic": 3.60
+    },
+    {
+        "postion": "Cut Down 24x18x18",
+        "width": 24,
+        "length": 18,
+        "height": 16,
+        "price": 0,
+        "custom": 0,
+        "standard": 10.00,
+        "fragile": 10.00,
+        "basic": 10.00
+    },
+    {
+        "postion": "Cut Down 24x18x18",
+        "width": 24,
+        "length": 18,
+        "height": 14,
+        "price": 0,
+        "custom": 0,
+        "standard": 10.00,
+        "fragile": 10.00,
+        "basic": 10.00
+    },
+    {
+        "postion": "Cut Down 24x18x18",
+        "width": 24,
+        "length": 18,
+        "height": 12,
+        "price": 0,
+        "custom": 0,
+        "standard": 10.00,
+        "fragile": 10.00,
+        "basic": 10.00
+    },
+    {
+        "postion": "Cut Down 24x18x18",
+        "width": 24,
+        "length": 18,
+        "height": 10,
+        "price": 0,
+        "custom": 0,
+        "standard": 10.00,
+        "fragile": 10.00,
+        "basic": 10.00
+    },
+    {
+        "postion": "Cut Down 20x20x12",
+        "width": 20,
+        "length": 20,
+        "height": 10,
+        "price": 0,
+        "custom": 0,
+        "standard": 8.00,
+        "fragile": 8.00,
+        "basic": 8.00
+    },
+    {
+        "postion": "Cut Down 20x20x12",
+        "width": 20,
+        "length": 20,
+        "height": 8,
+        "price": 0,
+        "custom": 0,
+        "standard": 8.00,
+        "fragile": 8.00,
+        "basic": 8.00
+    },
+    {
+        "postion": "Cut Down 20x20x12",
+        "width": 20,
+        "length": 20,
+        "height": 6,
+        "price": 0,
+        "custom": 0,
+        "standard": 8.00,
+        "fragile": 8.00,
+        "basic": 8.00
+    },
+    {
+        "postion": "Cut Down 17x11x8",
+        "width": 17,
+        "length": 11,
+        "height": 6,
+        "price": 0,
+        "custom": 0,
+        "standard": 3.50,
+        "fragile": 3.50,
+        "basic": 3.50
+    },
+    {
+        "postion": "Cut Down 17x11x8",
+        "width": 17,
+        "length": 11,
+        "height": 4,
+        "price": 0,
+        "custom": 0,
+        "standard": 3.50,
+        "fragile": 3.50,
+        "basic": 3.50
+    },
+    {
+        "postion": "Cut Down 20x16x14",
+        "width": 20,
+        "length": 16,
+        "height": 12,
+        "price": 0,
+        "custom": 0,
+        "standard": 4.45,
+        "fragile": 4.45,
+        "basic": 4.45
+    },
+    {
+        "postion": "Cut Down 20x16x14",
+        "width": 20,
+        "length": 16,
+        "height": 10,
+        "price": 0,
+        "custom": 0,
+        "standard": 4.45,
+        "fragile": 4.45,
+        "basic": 4.45
+    },
+    {
+        "postion": "Cut Down 20x16x14",
+        "width": 20,
+        "length": 16,
+        "height": 8,
+        "price": 0,
+        "custom": 0,
+        "standard": 4.45,
+        "fragile": 4.45,
+        "basic": 4.45
+    }
+
+]
